@@ -2,9 +2,10 @@ body {
   background: #e67c85;
 }
 .balls {
-  margin: 200px;
   display: inline-flex;
   align-items: center;
+  margin-top: 200px;
+  margin-left: 150px;
 }
 .ball::before {
   content: "";
